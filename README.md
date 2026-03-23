@@ -18,3 +18,6 @@ This is a simple and interactive React application that allows users to enter a 
 	•	JavaScript (ES6+)
 	•	CSS
 	•	AI API (e.g., OpenAI or similar)
+
+   its well built just input your api key and start using.
+ 
